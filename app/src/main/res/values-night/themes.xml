@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.VirtueAPP" parent="Theme.MaterialComponents.DayNight.NoActionBar.Bridge">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#FF5722</item>
+        <item name="colorPrimaryVariant">#FF9800</item>
+        <item name="colorOnPrimary">#FFC107</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">#FFEB3B</item>
+        <item name="colorSecondaryVariant">#CDDC39</item>
+        <item name="colorOnSecondary">#8BC34A</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">#004CAF50</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
